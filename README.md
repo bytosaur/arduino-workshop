@@ -1,5 +1,4 @@
-# A workshop on Arduino intended for beginners
-
+# A workshop on Arduino for creative coders
 ![](media/closeup.jpg)
 
 ## Workshop Goals
@@ -21,7 +20,7 @@
     - Setting up the Arduino IDE
 
 2. Arduino Programming Basics
-    - Understanding the Arduino programming language (based on C/C++)
+    - Understanding the Arduino programming language
     - Writing and uploading your first Arduino sketch
     - Working with variables, data types, and control structures
 
