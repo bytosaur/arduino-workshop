@@ -3,38 +3,45 @@
 
 ## Workshop Goals
 - Introduce participants to Arduino and its capabilities
-- Teach the basics of programming and electronics using Arduino
-- Enable participants to build simple projects using Arduino
-- Explore creative ways of using Arduinos for exhibits
-- Build a protoype for creative purposes
+- Teach the basics of programming and electronics
+- Enable participants to build prototypes
+- Explore creative ways of using Arduino for exhibits
+- Build a prototype for creative purposes
 
 
-## Workshop Topics
+## Workshop Agenda
 
-1. Introduction to Arduino
+1. Introduction to Arduino (15 min)
     - What is Arduino?
-    - Arduino boards and components
-    - Setting up the Arduino IDE
+    - What is a micro-controller?
+    - inputs and outputs
+    - digital vs. analog
+    - basics of electricity (URI, parallel vs. serial)
 
-2. Arduino Programming Basics
+2. Example 1: Arduino Programming Basics (30 mins)
+    - Setting up the Arduino IDE
     - Understanding the Arduino programming language
     - Writing and uploading your first Arduino sketch
     - Working with variables, data types, and control structures
 
-3. Hardware Components
-    - Introduction to common electronic components used with Arduino
-    - Understanding resistors, LEDs, sensors, and motors
-    - Connecting and using these components with Arduino
+3. Hardware Components (10 mins)
+    - electronic components (diodes, capacitors, transistors)
+    - advanced components (ICs, board, sensors, and motors)
+    - Using the breadboard
 
-4. Interfacing
+4. break (10 minutes)
+
+4. Example 2: Interfacing the real world (40 mins)
     - Digital and analog I/O
-    - Controlling LEDs, motors, and other actuators
+    - Measuring & Controlling (LEDs, Resistors)
     - Serial communication with the Computer
 
-5. Building a Prototype
-    - Choosing a sensor and an actuator
-    - Mapping inputs to outputs
-    - demonstration
+5. Building a prototype: OSC to stepper motor (1h 20mins)
+    - the stepper motor
+    - installing a library
+    - the hardware patch (common ground, )
+    - controlling the stepper
+
 
 
 ## Workshop Requirements
