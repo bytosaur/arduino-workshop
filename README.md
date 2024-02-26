@@ -10,9 +10,6 @@
 
 
 ## Workshop Topics
-0. Showcase
-    - Who am I?
-    - Playground
 
 1. Introduction to Arduino
     - What is Arduino?
