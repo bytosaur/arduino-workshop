@@ -3,3 +3,6 @@
 ![](/media/circuitbasics.com_overview.jpg)
 ![](/media/circuitdigest.jpg)
 ![](/media/giphy.gif)
+![](/media/screaminfx.com_sampling.jpg)
+![](/media/Lesson37_3.jpg)
+![](/media/arduino-comic-jody-culkin2.jpg)

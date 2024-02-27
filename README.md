@@ -4,14 +4,12 @@
 ## Workshop Goals
 - Introduce participants to Arduino and its capabilities
 - Teach the basics of programming and electronics
-- Enable participants to build prototypes
+- Enable participants to build prototypes for creative purposes
 - Explore creative ways of using Arduino for exhibits
-- Build a prototype for creative purposes
-
 
 ## Workshop Agenda
 
-1. Introduction to Arduino (15 min)
+1. Introduction to Arduino (20 min)
     - What is Arduino?
     - What is a micro-controller?
     - inputs and outputs
@@ -22,21 +20,17 @@
     - Setting up the Arduino IDE
     - Understanding the Arduino programming language
     - Writing and uploading your first Arduino sketch
-    - Working with variables, data types, and control structures
 
-3. Hardware Components (10 mins)
-    - electronic components (diodes, capacitors, transistors)
-    - advanced components (ICs, board, sensors, and motors)
+3. Example 2: Interfacing the real world (40 mins)
+    - Digital and analog I/O    
     - Using the breadboard
-
-4. break (10 minutes)
-
-4. Example 2: Interfacing the real world (40 mins)
-    - Digital and analog I/O
+    - Working with variables, data types
     - Measuring & Controlling (LEDs, Resistors)
     - Serial communication with the Computer
 
-5. Building a prototype: OSC to stepper motor (1h 20mins)
+4. break (15 minutes)
+
+5. Building a prototype: OSC to stepper motor (1h 40mins)
     - the stepper motor
     - installing a library
     - the hardware patch (common ground, )
