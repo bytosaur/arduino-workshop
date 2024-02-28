@@ -29,11 +29,9 @@ void oscEvent(OscMessage theOscMessage) {
     if (theOscMessage.checkTypetag("f")) {
       // Get the first float value from the OSC message
       valueToSend = theOscMessage.get(0).floatValue();
-      
-      valueToSend = (valueToSend + 1) * 127;
-      
+      println("From OSC: " + str(valueToSend));
       // Send the float value over serial to the Arduino as a string
-      mySerial.write(str(valueToSend) + '\n');
+      mySerial.write(str(valueToSend));
     }
   }
 }
@@ -47,6 +45,6 @@ void serialEvent(Serial mySerial) {
     incomingString = incomingString.trim();
     
     // Print the debug string to the Processing console
-    println("From Arduino: " + incomingString);
+    println("From Ino: " + incomingString);
   }
 }
