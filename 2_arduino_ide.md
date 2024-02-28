@@ -1,11 +1,6 @@
 # EXAMPLE I
 
-### Requirements
-- Laptop
-- USB Cable
-- Arduino ([compatible board](https://en.wikipedia.org/wiki/List_of_Arduino_boards_and_compatible_systems))
-
-### Installation
+### Installing Arduino IDE 2.X
 
 1. Visit [the Arduino webpage](https://www.arduino.cc/en/software) to download the Arduino Integrated Development Editor (IDE) version 2.X for your operating System. Click [here](https://docs.arduino.cc/software/ide-v2/tutorials/getting-started/ide-v2-downloading-and-installing/) for a guide on installing.
 
@@ -58,3 +53,5 @@ Remember:
 
 ### References
 - [IDE Getting Started](https://docs.arduino.cc/software/ide-v2/tutorials/getting-started-ide-v2/)
+
+[Back <](1_arduino.md) ~~~ [> Next](3_breadboard.md)

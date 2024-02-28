@@ -24,27 +24,33 @@
 3. Example 2: Interfacing the real world (40 mins)
     - Digital and analog I/O    
     - Using the breadboard
-    - Working with variables, data types
+    - Working with variables and data types
     - Measuring & Controlling (LEDs, Resistors)
     - Serial communication with the Computer
 
 4. break (15 minutes)
 
 5. Building a prototype: OSC to stepper motor (1h 40mins)
-    - the stepper motor
-    - installing a library
-    - the hardware patch (common ground, )
+    - stepper motor & driver
+    - schematic
+    - providing external power
     - controlling the stepper
 
 
-
-## Workshop Requirements
-- Arduino board (e.g., Arduino Uno, Arduino Nano)
+## Hardware Requirements
+- Computer
 - USB cable for connecting Arduino to the computer
+- Arduino ([compatible board](https://en.wikipedia.org/wiki/List_of_Arduino_boards_and_compatible_systems))
 - Breadboard and jumper wires
-- Basic electronic components (e.g., resistors, LEDs, sensors)
-- Computer with Arduino IDE installed
+- Example 2: 
+    - potentiometer
+    - LED
+- Prototype:
+    - Nema 17 stepper Motor
+    - L298n motor driver
+
 
 ## Workshop Duration
 The workshop is designed to be completed in 4 hours, including hands-on activities and project development.
 
+[Let's get started >](1_arduino.md)

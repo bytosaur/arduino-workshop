@@ -44,3 +44,6 @@ Add the following lines to the correct location. Make sure to use `pinMode()`.
   analogWrite(3, analogValue);
   ...
 ```
+Think about a way to control the rate to led blinking.
+
+[Back <](2_arduino_ide.md) ~~~ [> Next](4_prototype.md)
