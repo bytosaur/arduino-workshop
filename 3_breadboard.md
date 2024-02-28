@@ -14,7 +14,7 @@ In this example we will connect a potentiometer and an led to our Arduino Board.
 Let's introduce two new concepts: 
 - __variables__: placeholders for values (integer, float, ...)
 - __analogRead()__: converting an analog signal to a digital value (sampling)
-- __Serial__: a construct having different functionalities involed in serial communication (here over USB)
+- __Serial__: a class having different functionalities involved in serial communication (here over USB)
 
 ___NOTE___: in order to see the values coming from the Arduino, you need to open `Tools` -> `Serial Monitor`.
 
